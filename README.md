@@ -1,6 +1,6 @@
 # Projet-Exoplanets
 
-<img src="Images/téléchargement.jpeg" width="40%">
+<img src="Images/téléchargement.jpeg" width="60%">
 
 ##### Photo by : NASA
 
