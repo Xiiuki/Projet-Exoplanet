@@ -64,6 +64,7 @@ Il faudrat donc réaliser toutes les étapes d'un dévellopeur data, études de 
 - MongoDB 1.26
 - Visual Studio Code 1.56
 - StarUML pour la lecture du fichier .mdj (https://staruml.io/download)
+- Exiftool pour les métadonnée (https://exiftool.org/)
 ```
 
 
@@ -182,5 +183,9 @@ Petit plus, avec les métadonnées :
 Puis lancer MongoDB, connection, metadonnee, metadata_collection
 
 ## <br> Attention : </br>
+
+Pour le backup de la base de donnée, veillez bien à préciser le bon chemin dans object_to_backup
+
+## <br> Renseignements : </br>
 
 Pour toutes demandes de renseignements, veuillez contacter l'autheur de ce projet via adresse mail uniquement.
